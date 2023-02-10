@@ -1,1 +1,37 @@
 
+
+# Design Patterns 
+
+In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
+
+- Creational design patterns - these  patterns are all about creating objects. Io other words this design patterns are used for instantiation of objects. 
+- Structural design patterns - these design patterns for composition of objects and classes. With Structural design patterns use inheritnace to compose interfaces.
+- Behavioral design patterns - these patterns all about communication of objects of classes. BDPs conserned mostly about communication of objects of spesific classes. 
+
+|Creational Design Patterns|Structural Design Patterns| Behavioral Design Patterns|
+|---|----|----|
+|Abstract Factory| Adapter | Chain of responsibility |
+|Builder| Bridge | Command|
+|Factory Method| Composite | Interpreter |
+|Object Pool| Decorator | Mediator|
+|Prototype| Facade | Memento |
+|Singleton| flyweight | Null Object |
+|| Private Class Data | Observer|
+| | Proxy | State |
+| |  | Strategy|
+| |  | Template Method |
+| |  | Visitor |
+
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
+## Related Resources 
+
+Here you may find related documetations and video lessons which would be useful for you to gain new knowledge. 
+
+- [Design Patterns (Christopher Okhravi)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+
+![My Remote Image](https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/christopher.jpg)
