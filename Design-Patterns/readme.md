@@ -32,7 +32,6 @@ In software engineering, a design pattern is a general repeatable solution to a 
 |3.|Dive into Design Patterns|[Dive into Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Dive%20into%20Design%20Patterns.pdf)|410|$\color{red}{pending}$|
 |4.|Head First Object-Oriented Analysis and Design|[Head First Object-Oriented Analysis and Design](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|603|$\color{red}{pending}$|
 |5.|Patterns of Enterprise Application Architecture|[Patterns of Enterprise Application Architecture](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|389|$\color{red}{pending}$|
-|6.||||$\color{red}{pending}$|
 
 
 ## Related Resources 
