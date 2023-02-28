@@ -25,7 +25,11 @@ In software engineering, a design pattern is a general repeatable solution to a 
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+|No|Book|Resource|Page|Status|
+|---|---|---|---|---|
+|1.| ||||
+|2.|||||
+|3.|||||
 
 
 ## Related Resources 
