@@ -23,11 +23,11 @@ In software engineering, a design pattern is a general repeatable solution to a 
 | |  | Visitor |
 
 
-## Lessons Learned
+## Study Plan
 
 |No|Book|Resource|Page|Status|
 |---|---|---|---|---|
-|1.| ||||
+|1.| Head First Design Patterns|[Head First Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/heaf-first-desighn%20patterns.pdf)|677|$\color{green}{completed}$|
 |2.|||||
 |3.|||||
 
