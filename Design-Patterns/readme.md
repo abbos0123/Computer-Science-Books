@@ -35,3 +35,8 @@ Here you may find related documetations and video lessons which would be useful 
 - [Design Patterns (Christopher Okhravi)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
 ![My Remote Image](https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/christopher.jpg)
+
+-[]()
+<img src="https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/Java%20Design%20Patterns%20and%20Architecture%20-%20Free%20Udemy%20course.png" alt="mypic" style="width:1000px"/>
+
+
