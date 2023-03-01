@@ -11,7 +11,7 @@ This repository is cerated for all develpers who love reading books related comp
 |Advanced Java|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Advanced-Java)|
 |Spring Books|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Spring)|
 |System Design|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/System-Design)|
-|Operation Systems (Linux) |[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Operation Systems(Linux))|
+|Operation Systems (Linux) |[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Operation%20Systems(Linux))|
 |DevOps|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/DevOps)|
 |Kotlin|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Kotlin)|
 |Design Patterns|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns)|
