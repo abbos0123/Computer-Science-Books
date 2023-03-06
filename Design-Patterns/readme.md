@@ -27,11 +27,11 @@ In software engineering, a design pattern is a general repeatable solution to a 
 
 |No|Book|Resource|Page|Status|
 |---|---|---|---|---|
-|1.| Head First Design Patterns|[Head First Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/heaf-first-desighn%20patterns.pdf)|677|$\color{green}{completed}$|
-|2.|Elements of Reusable Object-Oriented Software|[Elements of Reusable Object-Oriented Software](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Elements%20of%20Resusable%20Object-Oriented%20Software.pdf)|417|$\color{orange}{progress}$|
-|3.|Dive into Design Patterns|[Dive into Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Dive%20into%20Design%20Patterns.pdf)|410|$\color{orange}{progress}$|
-|4.|Head First Object-Oriented Analysis and Design|[Head First Object-Oriented Analysis and Design](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|603|$\color{red}{pending}$|
-|5.|Patterns of Enterprise Application Architecture|[Patterns of Enterprise Application Architecture](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|389|$\color{red}{pending}$|
+|1.| Head First Design Patterns|[Head First Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/heaf-first-desighn%20patterns.pdf)|677|:white_check_mark:|
+|2.|Elements of Reusable Object-Oriented Software|[Elements of Reusable Object-Oriented Software](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Elements%20of%20Resusable%20Object-Oriented%20Software.pdf)|417|:book:|
+|3.|Dive into Design Patterns|[Dive into Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Dive%20into%20Design%20Patterns.pdf)|410|:book:|
+|4.|Head First Object-Oriented Analysis and Design|[Head First Object-Oriented Analysis and Design](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|603|:hourglass:|
+|5.|Patterns of Enterprise Application Architecture|[Patterns of Enterprise Application Architecture](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|389|:hourglass:|
 
 
 ## Related Resources 
