@@ -1,5 +1,5 @@
-## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
-
+## text color
+<span style="color:red">red color</span>.
 ## Summary 
 
 ```
