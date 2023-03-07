@@ -1,4 +1,7 @@
 ## Design patterns
+
+This resource based on [ Dive into Design Patterns ](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Dive%20into%20Design%20Patterns.pdf)
+
 In this section you will find real life implementations of each design patter.
 
 |No|Design Pattern|Type|Status|
