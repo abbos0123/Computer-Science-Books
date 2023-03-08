@@ -6,8 +6,8 @@ In this section you will find real life implementations of each design patter.
 
 |No|Design Pattern|Type|Status|
 |---|---|---|---|
-|1.| [Factory Method](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns|:book:|
-|2.| [Abstract Factory](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns|:hourglass:|
+|1.| [Factory Method](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns|:white_check_mark:|
+|2.| [Abstract Factory](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns|:book:|
 |3.| [Builder](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Builder)|Creational Design Patterns|:hourglass:|
 |4.| [Prototype](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Prototype)|Creational Design Patterns|:hourglass:|
 |5.| [Singleton](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Singleton)|Creational Design Patterns|:hourglass:|
