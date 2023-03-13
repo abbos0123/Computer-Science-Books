@@ -6,7 +6,7 @@ In this section you will find real life implementations of each design patter.
 
 |No|Design Pattern|Type|Other Resources|Status|Interview
 |--|--------------|----|---------------|---------|------|
-|1.| [Factory Method](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns||:white_check_mark:|:hourglass:|
+|1.| [Factory Method](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns|<ul><li> [www.digitalocean.com](https://www.digitalocean.com/community/tutorials/factory-design-pattern-in-java)</li></ul>|:white_check_mark:|:hourglass:|
 |2.| [Abstract Factory](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns||:book:|:hourglass:|
 |3.| [Builder](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Builder)|Creational Design Patterns||:hourglass:|:hourglass:|
 |4.| [Prototype](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Prototype)|Creational Design Patterns||:hourglass:|:hourglass:|
