@@ -6,10 +6,10 @@ In this section you will find real life implementations of each design patter.
 
 |No|Design Pattern|Type|Status|Interview|
 |--|--------------|----|------|--------|
-|1.| [Factory Method](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns|:white_check_mark:|:hourglass:|
-|2.| [Abstract Factory](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns|:white_check_mark:|:hourglass:|
-|3.| [Builder](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Builder)|Creational Design Patterns|:book:|:hourglass:|
-|4.| [Prototype](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Prototype)|Creational Design Patterns|:hourglass:|:hourglass:|
+|1.| [Factory Method](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
+|2.| [Abstract Factory](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
+|3.| [Builder](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Builder)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
+|4.| [Prototype](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Prototype)|Creational Design Patterns|:book:|:hourglass:|
 |5.| [Singleton](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Singleton)|Creational Design Patterns|:hourglass:|:hourglass:|
 |6.| [Adapter](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Adapter)|Structural Design Patterns|:hourglass:|:hourglass:|
 |7.| [Bridge](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Bridge)|Structural Design Patterns|:hourglass:|:hourglass:|
