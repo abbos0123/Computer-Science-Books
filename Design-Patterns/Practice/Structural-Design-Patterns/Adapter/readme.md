@@ -1,5 +1,8 @@
 ## Adapter 
 Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/adapter_image.png)"  width="600" height="300">
 ## Study Plan  
 
 |No|Name|Sourse|
