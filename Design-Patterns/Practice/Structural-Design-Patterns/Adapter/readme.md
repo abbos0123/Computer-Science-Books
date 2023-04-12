@@ -3,6 +3,8 @@ Adapter is a structural design pattern that allows objects with incompatible int
 
 
 <img src="[https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/adapter_image.png]([https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/adapter_image.png](https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/adapter_image.png))"  width="600" height="300">
+
+
 ## Study Plan  
 
 |No|Name|Sourse|
