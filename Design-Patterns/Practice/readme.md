@@ -11,8 +11,8 @@ In this section you will find real life implementations of each design patter.
 |3.| [Builder](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Builder)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
 |4.| [Prototype](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Prototype)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
 |5.| [Singleton](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Creational-Design-Patterns/Singleton)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
-|6.| [Adapter](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Adapter)|Structural Design Patterns|:book:|:hourglass:|
-|7.| [Bridge](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Bridge)|Structural Design Patterns|:hourglass:|:hourglass:|
+|6.| [Adapter](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Adapter)|Structural Design Patterns|:heavy_check_mark:|:hourglass:|
+|7.| [Bridge](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Bridge)|Structural Design Patterns|:book:|:hourglass:|
 |8.| [Composite](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Composite)|Structural Design Patterns|:hourglass:|:hourglass:|
 |9.| [Decorator](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Decorator)|Structural Design Patterns|:hourglass:|:hourglass:|
 |10.| [Facade](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns/Practice/Structural-Design-Patterns/Facade)|Structural Design Patterns|:hourglass:|:hourglass:|
