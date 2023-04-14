@@ -1,0 +1,7 @@
+server:
+    port: 3030
+spring:
+    application:
+        name: api-gateway
+    config:
+        import: optional:configserver:http://localhost:8888
