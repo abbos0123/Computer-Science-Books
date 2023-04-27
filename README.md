@@ -20,5 +20,6 @@ This repository is cerated for all develpers who love reading books related to c
 |-|Kotlin|[Kotlin](https://github.com/abbos0123/Kotlin)|:hourglass:|
 |-|System Design|[System Design](https://github.com/abbos0123/System-Design)|:book:|
 |-|Java|[Java](https://github.com/abbos0123/Java)|:hourglass:|
+|-|Design Patterns|[Design Patterns](https://github.com/abbos0123/Design-Patterns)|:book:|
 
 
