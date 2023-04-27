@@ -5,9 +5,6 @@ This repository is cerated for all develpers who love reading books related to c
 
 |**Books**|**Resource**|
 |-----|-----|
-|Java Core Books|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Java-Core)|
-|Java Multithreading|[Link]()|
-|Advanced Java|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Advanced-Java)|
 |Spring Books|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Spring)|
 |DevOps|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/DevOps)|
 |Design Patterns|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns)|
@@ -22,5 +19,6 @@ This repository is cerated for all develpers who love reading books related to c
 |-|Computer Networks|[Computer Networks](https://github.com/abbos0123/Computer-Networks)|:hourglass:|
 |-|Kotlin|[Kotlin](https://github.com/abbos0123/Kotlin)|:hourglass:|
 |-|System Design|[System Design](https://github.com/abbos0123/System-Design)|:book:|
+|-|Java|[Java](https://github.com/abbos0123/Java)|:hourglass:|
 
 
