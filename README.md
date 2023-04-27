@@ -9,7 +9,6 @@ This repository is cerated for all develpers who love reading books related to c
 |Java Multithreading|[Link]()|
 |Advanced Java|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Advanced-Java)|
 |Spring Books|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Spring)|
-|System Design|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/System-Design)|
 |DevOps|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/DevOps)|
 |Design Patterns|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns)|
 |Completed|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Completed-Books)|
