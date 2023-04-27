@@ -5,16 +5,18 @@ This repository is cerated for all develpers who love reading books related to c
 
 |**Books**|**Resource**|
 |-----|-----|
-|Data Structure And Algorithms|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Data-Structure-And-Algorithms)|
 |Java Core Books|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Java-Core)|
 |Java Multithreading|[Link]()|
 |Advanced Java|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Advanced-Java)|
 |Spring Books|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Spring)|
 |System Design|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/System-Design)|
-|Operation Systems (Linux) |[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Operation-Systems(Linux))|
 |DevOps|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/DevOps)|
 |Kotlin|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Kotlin)|
 |Design Patterns|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Design-Patterns)|
 |Completed|[Link](https://github.com/abbos0123/Computer-Science-Books/tree/main/Completed-Books)|
 
 
+|No|Computer Science Subjects|Resources|Status|
+|--|-------------------------|---------|------|
+|1.|Data Structure and Algorithms|[Data Structure and Algorithms](https://github.com/abbos0123/Algorithms-and-System-Design-FAANG)|:book:|
+|2.|Operation Systems |[Operation Systems ](https://github.com/abbos0123/Operation-Systems)|:book:|
