@@ -1,7 +1,0 @@
-server:
-    port: 5050
-spring:
-    application:
-        name: service-a
-    config:
-        import: optional:configserver:http://localhost:8888
