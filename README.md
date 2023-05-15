@@ -24,5 +24,5 @@ Although knowing how to program is essential to the study of computer science, i
 |-|DevOps|[DevOps](https://github.com/abbos0123/DevOps)|:book:|
 |-|Java|[Java](https://github.com/abbos0123/Java)|:hourglass:|
 |-|Design Patterns|[Design Patterns](https://github.com/abbos0123/Design-Patterns)|:book:|
-|-|Spring Framework|[Spring Framework](https://github.com/abbos0123/Spring)|:hourglass:|
+|-|Spring Framework|[Spring Framework](https://github.com/abbos0123/Spring)|:book:|
 |-|Just Important Books :star:|[Just Important Books](https://github.com/abbos0123/Must-Read)|:hourglass:|
