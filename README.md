@@ -22,7 +22,7 @@ Although knowing how to program is essential to the study of computer science, i
 |-|Kotlin|[Kotlin](https://github.com/abbos0123/Kotlin)|:hourglass:|
 |-|System Design|[System Design](https://github.com/abbos0123/System-Design)|:book:|
 |-|DevOps|[DevOps](https://github.com/abbos0123/DevOps)|:book:|
-|-|Java|[Java](https://github.com/abbos0123/Java)|:hourglass:|
+|-|Java|[Java](https://github.com/abbos0123/Java)|:book:|
 |-|Design Patterns|[Design Patterns](https://github.com/abbos0123/Design-Patterns)|:book:|
 |-|Spring Framework|[Spring Framework](https://github.com/abbos0123/Spring)|:book:|
 |-|Just Important Books :star:|[Just Important Books](https://github.com/abbos0123/Must-Read)|:hourglass:|
